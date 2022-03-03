@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
 
-namespace RazorPagesTarotDecks.Pages
+namespace web315.Pages
 {
     public class PrivacyModel : PageModel
     {

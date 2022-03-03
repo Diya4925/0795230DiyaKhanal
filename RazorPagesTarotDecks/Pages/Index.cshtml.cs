@@ -1,25 +1,26 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.AspNetCore.Mvc.Rendering;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.Extensions.Logging;
 
-namespace RazorPagesMovie.Pages.Movies
+namespace web315.Pages
 {
-
     public class IndexModel : PageModel
     {
-        private readonly RazorPagesTarotDecks.Data.RazorPagesMovieContext _context;
+        private readonly ILogger<IndexModel> _logger;
 
-        public IndexModel(RazorPagesMovie.Data.RazorPagesMovieContext context)
+        public IndexModel(ILogger<IndexModel> logger)
         {
-            _context = context;
+            _logger = logger;
         }
 
-        public IList< Cards_Detail > Movie { get; set; }
-        [BindProperty(SupportsGet = true)]
-        public string SearchString { get; set; }
-        public SelectList Themes { get; set; }
-        [BindProperty(SupportsGet = true)]
-        public string MovieGenre { get; set; }
+        public void OnGet()
+        {
+
+        }
+    }
+}

@@ -1,9 +1,9 @@
 using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace RazorPagesTarotDecks.Models
+namespace MyTarotDecks.Models
 {
-    public class Decks
+    public class TarotCards
     {
         public int ID { get; set; }
         public string Title { get; set; }
@@ -13,4 +13,6 @@ namespace RazorPagesTarotDecks.Models
         public string Theme { get; set; }
         public decimal Price { get; set; }
     }
+
+    
 }
