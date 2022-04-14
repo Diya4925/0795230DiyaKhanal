@@ -1,0 +1,12 @@
+C:\Users\khana\OneDrive\Documents\GitHub\DiyaKhanalChat\Shared\bin\Debug\net5.0\DiyaKhanalChat.Shared.deps.json
+C:\Users\khana\OneDrive\Documents\GitHub\DiyaKhanalChat\Shared\bin\Debug\net5.0\DiyaKhanalChat.Shared.dll
+C:\Users\khana\OneDrive\Documents\GitHub\DiyaKhanalChat\Shared\bin\Debug\net5.0\ref\DiyaKhanalChat.Shared.dll
+C:\Users\khana\OneDrive\Documents\GitHub\DiyaKhanalChat\Shared\bin\Debug\net5.0\DiyaKhanalChat.Shared.pdb
+C:\Users\khana\OneDrive\Documents\GitHub\DiyaKhanalChat\Shared\obj\Debug\net5.0\DiyaKhanalChat.Shared.csproj.AssemblyReference.cache
+C:\Users\khana\OneDrive\Documents\GitHub\DiyaKhanalChat\Shared\obj\Debug\net5.0\DiyaKhanalChat.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khana\OneDrive\Documents\GitHub\DiyaKhanalChat\Shared\obj\Debug\net5.0\DiyaKhanalChat.Shared.AssemblyInfoInputs.cache
+C:\Users\khana\OneDrive\Documents\GitHub\DiyaKhanalChat\Shared\obj\Debug\net5.0\DiyaKhanalChat.Shared.AssemblyInfo.cs
+C:\Users\khana\OneDrive\Documents\GitHub\DiyaKhanalChat\Shared\obj\Debug\net5.0\DiyaKhanalChat.Shared.csproj.CoreCompileInputs.cache
+C:\Users\khana\OneDrive\Documents\GitHub\DiyaKhanalChat\Shared\obj\Debug\net5.0\DiyaKhanalChat.Shared.dll
+C:\Users\khana\OneDrive\Documents\GitHub\DiyaKhanalChat\Shared\obj\Debug\net5.0\ref\DiyaKhanalChat.Shared.dll
+C:\Users\khana\OneDrive\Documents\GitHub\DiyaKhanalChat\Shared\obj\Debug\net5.0\DiyaKhanalChat.Shared.pdb
