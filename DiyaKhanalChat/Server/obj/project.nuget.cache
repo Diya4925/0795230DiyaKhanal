@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MSqsgZK9hXILn6y8aG8f1PHFuwHE0xUqmHZyyGgLHMRcG7nDgLtqRq3cfAqdRiTsoPDym94E8vUge3dbC6c2Tg==",
+  "dgSpecHash": "wuINiKMopKzTMOLeGVU73InhKPonw+yHAMw0sLAKqXEy66ze7k5QRQB9pjK2HVX0R/GSQp+PtfgkuvLOLcePqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\DiyaKhanalChat\\Server\\DiyaKhanalChat.Server.csproj",
+  "projectFilePath": "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\0795230DiyaKhanal\\DiyaKhanalChat\\Server\\DiyaKhanalChat.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\khana\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.15\\microsoft.aspnetcore.authorization.5.0.15.nupkg.sha512",
     "C:\\Users\\khana\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.15\\microsoft.aspnetcore.components.5.0.15.nupkg.sha512",
@@ -11,7 +11,15 @@
     "C:\\Users\\khana\\.nuget\\packages\\microsoft.aspnetcore.components.web\\5.0.15\\microsoft.aspnetcore.components.web.5.0.15.nupkg.sha512",
     "C:\\Users\\khana\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\5.0.15\\microsoft.aspnetcore.components.webassembly.5.0.15.nupkg.sha512",
     "C:\\Users\\khana\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.server\\5.0.15\\microsoft.aspnetcore.components.webassembly.server.5.0.15.nupkg.sha512",
+    "C:\\Users\\khana\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\5.0.15\\microsoft.aspnetcore.connections.abstractions.5.0.15.nupkg.sha512",
+    "C:\\Users\\khana\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\5.0.15\\microsoft.aspnetcore.http.connections.client.5.0.15.nupkg.sha512",
+    "C:\\Users\\khana\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\5.0.15\\microsoft.aspnetcore.http.connections.common.5.0.15.nupkg.sha512",
+    "C:\\Users\\khana\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.15\\microsoft.aspnetcore.http.features.5.0.15.nupkg.sha512",
     "C:\\Users\\khana\\.nuget\\packages\\microsoft.aspnetcore.metadata\\5.0.15\\microsoft.aspnetcore.metadata.5.0.15.nupkg.sha512",
+    "C:\\Users\\khana\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\5.0.15\\microsoft.aspnetcore.signalr.client.5.0.15.nupkg.sha512",
+    "C:\\Users\\khana\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\5.0.15\\microsoft.aspnetcore.signalr.client.core.5.0.15.nupkg.sha512",
+    "C:\\Users\\khana\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\5.0.15\\microsoft.aspnetcore.signalr.common.5.0.15.nupkg.sha512",
+    "C:\\Users\\khana\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\5.0.15\\microsoft.aspnetcore.signalr.protocols.json.5.0.15.nupkg.sha512",
     "C:\\Users\\khana\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
     "C:\\Users\\khana\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\khana\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0\\microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
@@ -25,11 +33,12 @@
     "C:\\Users\\khana\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
     "C:\\Users\\khana\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\khana\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
-    "C:\\Users\\khana\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\khana\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
     "C:\\Users\\khana\\.nuget\\packages\\microsoft.jsinterop\\5.0.15\\microsoft.jsinterop.5.0.15.nupkg.sha512",
     "C:\\Users\\khana\\.nuget\\packages\\microsoft.jsinterop.webassembly\\5.0.15\\microsoft.jsinterop.webassembly.5.0.15.nupkg.sha512",
     "C:\\Users\\khana\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512",
-    "C:\\Users\\khana\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512"
+    "C:\\Users\\khana\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\khana\\.nuget\\packages\\system.threading.channels\\5.0.0\\system.threading.channels.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,0 +1,5 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\khana\OneDrive\Documents\GitHub\0795230DiyaKhanal\DiyaKhanalChat\Client\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\khana\OneDrive\Documents\GitHub\0795230DiyaKhanal\DiyaKhanalChat\Client\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="/" Path="C:\Users\khana\OneDrive\Documents\GitHub\0795230DiyaKhanal\DiyaKhanalChat\Client\wwwroot\" />
+</StaticWebAssets>

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\DiyaKhanalChat\\Shared\\DiyaKhanalChat.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\0795230DiyaKhanal\\DiyaKhanalChat\\Shared\\DiyaKhanalChat.Shared.csproj",
       "projectName": "DiyaKhanalChat.Shared",
-      "projectPath": "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\DiyaKhanalChat\\Shared\\DiyaKhanalChat.Shared.csproj",
+      "projectPath": "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\0795230DiyaKhanal\\DiyaKhanalChat\\Shared\\DiyaKhanalChat.Shared.csproj",
       "packagesPath": "C:\\Users\\khana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\DiyaKhanalChat\\Shared\\obj\\",
+      "outputPath": "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\0795230DiyaKhanal\\DiyaKhanalChat\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\khana\\AppData\\Roaming\\NuGet\\NuGet.Config"

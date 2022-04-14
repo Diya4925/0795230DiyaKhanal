@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\DiyaKhanalChat\\Server\\DiyaKhanalChat.Server.csproj": {}
+    "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\0795230DiyaKhanal\\DiyaKhanalChat\\Server\\DiyaKhanalChat.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\DiyaKhanalChat\\Client\\DiyaKhanalChat.Client.csproj": {
+    "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\0795230DiyaKhanal\\DiyaKhanalChat\\Client\\DiyaKhanalChat.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\DiyaKhanalChat\\Client\\DiyaKhanalChat.Client.csproj",
+        "projectUniqueName": "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\0795230DiyaKhanal\\DiyaKhanalChat\\Client\\DiyaKhanalChat.Client.csproj",
         "projectName": "DiyaKhanalChat.Client",
-        "projectPath": "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\DiyaKhanalChat\\Client\\DiyaKhanalChat.Client.csproj",
+        "projectPath": "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\0795230DiyaKhanal\\DiyaKhanalChat\\Client\\DiyaKhanalChat.Client.csproj",
         "packagesPath": "C:\\Users\\khana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\DiyaKhanalChat\\Client\\obj\\",
+        "outputPath": "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\0795230DiyaKhanal\\DiyaKhanalChat\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\khana\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\DiyaKhanalChat\\Shared\\DiyaKhanalChat.Shared.csproj": {
-                "projectPath": "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\DiyaKhanalChat\\Shared\\DiyaKhanalChat.Shared.csproj"
+              "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\0795230DiyaKhanal\\DiyaKhanalChat\\Shared\\DiyaKhanalChat.Shared.csproj": {
+                "projectPath": "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\0795230DiyaKhanal\\DiyaKhanalChat\\Shared\\DiyaKhanalChat.Shared.csproj"
               }
             }
           }
@@ -48,6 +48,10 @@
             },
             "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.15, )"
+            },
+            "Microsoft.AspNetCore.SignalR.Client": {
               "target": "Package",
               "version": "[5.0.15, )"
             },
@@ -86,14 +90,14 @@
         }
       }
     },
-    "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\DiyaKhanalChat\\Server\\DiyaKhanalChat.Server.csproj": {
+    "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\0795230DiyaKhanal\\DiyaKhanalChat\\Server\\DiyaKhanalChat.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\DiyaKhanalChat\\Server\\DiyaKhanalChat.Server.csproj",
+        "projectUniqueName": "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\0795230DiyaKhanal\\DiyaKhanalChat\\Server\\DiyaKhanalChat.Server.csproj",
         "projectName": "DiyaKhanalChat.Server",
-        "projectPath": "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\DiyaKhanalChat\\Server\\DiyaKhanalChat.Server.csproj",
+        "projectPath": "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\0795230DiyaKhanal\\DiyaKhanalChat\\Server\\DiyaKhanalChat.Server.csproj",
         "packagesPath": "C:\\Users\\khana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\DiyaKhanalChat\\Server\\obj\\",
+        "outputPath": "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\0795230DiyaKhanal\\DiyaKhanalChat\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\khana\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -108,11 +112,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\DiyaKhanalChat\\Client\\DiyaKhanalChat.Client.csproj": {
-                "projectPath": "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\DiyaKhanalChat\\Client\\DiyaKhanalChat.Client.csproj"
+              "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\0795230DiyaKhanal\\DiyaKhanalChat\\Client\\DiyaKhanalChat.Client.csproj": {
+                "projectPath": "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\0795230DiyaKhanal\\DiyaKhanalChat\\Client\\DiyaKhanalChat.Client.csproj"
               },
-              "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\DiyaKhanalChat\\Shared\\DiyaKhanalChat.Shared.csproj": {
-                "projectPath": "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\DiyaKhanalChat\\Shared\\DiyaKhanalChat.Shared.csproj"
+              "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\0795230DiyaKhanal\\DiyaKhanalChat\\Shared\\DiyaKhanalChat.Shared.csproj": {
+                "projectPath": "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\0795230DiyaKhanal\\DiyaKhanalChat\\Shared\\DiyaKhanalChat.Shared.csproj"
               }
             }
           }
@@ -154,14 +158,14 @@
         }
       }
     },
-    "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\DiyaKhanalChat\\Shared\\DiyaKhanalChat.Shared.csproj": {
+    "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\0795230DiyaKhanal\\DiyaKhanalChat\\Shared\\DiyaKhanalChat.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\DiyaKhanalChat\\Shared\\DiyaKhanalChat.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\0795230DiyaKhanal\\DiyaKhanalChat\\Shared\\DiyaKhanalChat.Shared.csproj",
         "projectName": "DiyaKhanalChat.Shared",
-        "projectPath": "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\DiyaKhanalChat\\Shared\\DiyaKhanalChat.Shared.csproj",
+        "projectPath": "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\0795230DiyaKhanal\\DiyaKhanalChat\\Shared\\DiyaKhanalChat.Shared.csproj",
         "packagesPath": "C:\\Users\\khana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\DiyaKhanalChat\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\0795230DiyaKhanal\\DiyaKhanalChat\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\khana\\AppData\\Roaming\\NuGet\\NuGet.Config"

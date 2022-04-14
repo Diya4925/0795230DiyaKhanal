@@ -140,35 +140,55 @@
         }
       },
       {
-        "HashCode": -1320210276,
+        "HashCode": -473749598,
         "Kind": "Components.Component",
-        "Name": "DiyaKhanalChat.Client.Pages.Chat",
+        "Name": "DiyaKhanalChat.Client.Shared.SurveyPrompt",
         "AssemblyName": "DiyaKhanalChat.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Chat"
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "DiyaKhanalChat.Client.Pages.Chat"
+          "Common.TypeName": "DiyaKhanalChat.Client.Shared.SurveyPrompt"
         }
       },
       {
-        "HashCode": 92953981,
+        "HashCode": -1208352565,
         "Kind": "Components.Component",
-        "Name": "DiyaKhanalChat.Client.Pages.Chat",
+        "Name": "DiyaKhanalChat.Client.Shared.SurveyPrompt",
         "AssemblyName": "DiyaKhanalChat.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "DiyaKhanalChat.Client.Pages.Chat"
+            "TagName": "DiyaKhanalChat.Client.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "DiyaKhanalChat.Client.Pages.Chat",
+          "Common.TypeName": "DiyaKhanalChat.Client.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -302,55 +322,35 @@
         }
       },
       {
-        "HashCode": -473749598,
+        "HashCode": -1986284606,
         "Kind": "Components.Component",
-        "Name": "DiyaKhanalChat.Client.Shared.SurveyPrompt",
+        "Name": "DiyaKhanalChat.Client.Chat",
         "AssemblyName": "DiyaKhanalChat.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
+            "TagName": "Chat"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "DiyaKhanalChat.Client.Shared.SurveyPrompt"
+          "Common.TypeName": "DiyaKhanalChat.Client.Chat"
         }
       },
       {
-        "HashCode": -1208352565,
+        "HashCode": 1639025697,
         "Kind": "Components.Component",
-        "Name": "DiyaKhanalChat.Client.Shared.SurveyPrompt",
+        "Name": "DiyaKhanalChat.Client.Chat",
         "AssemblyName": "DiyaKhanalChat.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "DiyaKhanalChat.Client.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
+            "TagName": "DiyaKhanalChat.Client.Chat"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "DiyaKhanalChat.Client.Shared.SurveyPrompt",
+          "Common.TypeName": "DiyaKhanalChat.Client.Chat",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13062,11 +13062,6 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\khana\\OneDrive\\Documents\\GitHub\\0795230DiyaKhanal\\DiyaKhanalChat\\Client\\Pages\\Chat.razor",
-      "TargetPath": "Pages\\Chat.razor",
-      "FileKind": "component"
-    },
-    {
       "FilePath": "c:\\Users\\khana\\OneDrive\\Documents\\GitHub\\0795230DiyaKhanal\\DiyaKhanalChat\\Client\\_Imports.razor",
       "TargetPath": "_Imports.razor",
       "FileKind": "componentImport"
@@ -13084,6 +13079,11 @@
     {
       "FilePath": "c:\\Users\\khana\\OneDrive\\Documents\\GitHub\\0795230DiyaKhanal\\DiyaKhanalChat\\Client\\Shared\\NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\khana\\OneDrive\\Documents\\GitHub\\0795230DiyaKhanal\\DiyaKhanalChat\\Client\\Chat.razor",
+      "TargetPath": "Chat.razor",
       "FileKind": "component"
     }
   ],

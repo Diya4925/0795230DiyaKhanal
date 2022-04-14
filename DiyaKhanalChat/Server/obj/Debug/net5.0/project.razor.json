@@ -3960,39 +3960,6 @@
         }
       },
       {
-        "HashCode": -1320210276,
-        "Kind": "Components.Component",
-        "Name": "DiyaKhanalChat.Client.Pages.Chat",
-        "AssemblyName": "DiyaKhanalChat.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Chat"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "DiyaKhanalChat.Client.Pages.Chat"
-        }
-      },
-      {
-        "HashCode": 92953981,
-        "Kind": "Components.Component",
-        "Name": "DiyaKhanalChat.Client.Pages.Chat",
-        "AssemblyName": "DiyaKhanalChat.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "DiyaKhanalChat.Client.Pages.Chat"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "DiyaKhanalChat.Client.Pages.Chat",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -154402071,
         "Kind": "Components.Component",
         "Name": "DiyaKhanalChat.Client.Pages.Counter",
