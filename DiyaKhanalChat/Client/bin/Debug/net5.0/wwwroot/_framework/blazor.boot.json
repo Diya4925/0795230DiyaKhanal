@@ -204,12 +204,12 @@
       "netstandard.dll": "sha256-qE0Q70OyVlHYY\/Y3nwMjfh+zissea9uhfvWMvPWfI7w=",
       "System.Private.CoreLib.dll": "sha256-pdkcl2+OojCfrhxX5eFmKI30wAmhL6s+sCLp7s175k0=",
       "DiyaKhanalChat.Shared.dll": "sha256-he0MzHYsJw9s8ulDeSmvvqTe5CY7NLFJ89MC6dYFghk=",
-      "DiyaKhanalChat.Client.dll": "sha256-KkvGlw8yW2wmO7GIyws9iwkoU3jSPc5jXLprz8IsZqs="
+      "DiyaKhanalChat.Client.dll": "sha256-Dj39wVElzLup1\/zLp+A81CcERq6WFKQmZrmHNcvPkyc="
     },
     "lazyAssembly": null,
     "pdb": {
       "DiyaKhanalChat.Shared.pdb": "sha256-ONFrcqXs\/Z82woD7BiVP7iHXaLuSrZjbvRxeDOk4BuQ=",
-      "DiyaKhanalChat.Client.pdb": "sha256-iZrpDgTMM8kz6jvOa3lsPMzWMOdoDPIZ2AjF\/6bR89s="
+      "DiyaKhanalChat.Client.pdb": "sha256-NMyjP7RRUYcff8senYtG0vhDkhAaIIGwU04a2yhCQQI="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-ootDKSA6cNAbgJLmPhrHsPVvVqkGEYdRZxucC22LWjw=",

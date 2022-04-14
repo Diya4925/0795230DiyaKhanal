@@ -1322,3 +1322,4 @@ C:\Users\khana\OneDrive\Documents\GitHub\0795230DiyaKhanal\DiyaKhanalChat\Client
 C:\Users\khana\OneDrive\Documents\GitHub\0795230DiyaKhanal\DiyaKhanalChat\Client\obj\Debug\net5.0\build-gz\yDRnr+lC.gz
 C:\Users\khana\OneDrive\Documents\GitHub\0795230DiyaKhanal\DiyaKhanalChat\Client\obj\Debug\net5.0\build-gz\irkPp7kH.gz
 C:\Users\khana\OneDrive\Documents\GitHub\0795230DiyaKhanal\DiyaKhanalChat\Client\obj\Debug\net5.0\build-gz\J0AcHGdJ.gz
+C:\Users\khana\OneDrive\Documents\GitHub\0795230DiyaKhanal\DiyaKhanalChat\Client\obj\Debug\net5.0\scopedcss\Chat.razor.rz.scp.css

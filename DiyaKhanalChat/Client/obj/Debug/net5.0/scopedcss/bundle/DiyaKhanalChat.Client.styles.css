@@ -1,3 +1,43 @@
+/* /Chat.razor.rz.scp.css */
+#a1[b-9qlgj6wbzc]{
+background-color: cornflowerblue;
+
+}
+
+
+#a2[b-9qlgj6wbzc]{
+background-color: bisque;
+}
+
+#a3[b-9qlgj6wbzc]{
+background-color: green;
+}
+
+#messagesList[b-9qlgj6wbzc]{
+
+background-color: darkgrey;
+color:black;
+padding-left: 50px;
+}
+
+.received[b-9qlgj6wbzc], .sent[b-9qlgj6wbzc] {
+    position: relative;
+    font-family: arial;
+    font-size: 1.1em;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+li[b-9qlgj6wbzc]{
+list-style-type: none;
+text-align: left;
+}
+
+.justify-content-end[b-9qlgj6wbzc] {
+text-decoration: underline;
+
+}
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-udui5hxh8c] {
     position: relative;
@@ -10,12 +50,12 @@
 }
 
 .sidebar[b-udui5hxh8c] {
-    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+    background-image: linear-gradient(180deg, rgb(235, 142, 199) 0%, #a4ecda 70%);
 }
 
 .top-row[b-udui5hxh8c] {
-    background-color: #f7f7f7;
-    border-bottom: 1px solid #d6d5d5;
+    background-color: #f8afb7;
+    border-bottom: 1px solid #cc8989;
     justify-content: flex-end;
     height: 3.5rem;
     display: flex;
@@ -71,12 +111,12 @@
 }
 /* /Shared/NavMenu.razor.rz.scp.css */
 .navbar-toggler[b-stlp3afr4f] {
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(218, 122, 122, 0.1);
 }
 
 .top-row[b-stlp3afr4f] {
     height: 3.5rem;
-    background-color: rgba(0,0,0,0.4);
+    background-color: rgba(247, 59, 59, 0.4);
 }
 
 .navbar-brand[b-stlp3afr4f] {
@@ -104,7 +144,7 @@
     }
 
     .nav-item[b-stlp3afr4f]  a {
-        color: #d7d7d7;
+        color: #f7f580;
         border-radius: 4px;
         height: 3rem;
         display: flex;

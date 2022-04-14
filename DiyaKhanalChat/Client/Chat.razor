@@ -4,18 +4,18 @@
 @implements IAsyncDisposable
 
 <div class="form-group">
-    <label>
+    <label id="a1">
         Name:
         <input @bind="userInput" />
     </label>
 </div>
 <div class="form-group">
-    <label>
+    <label id="a2">
         Message:
         <input @bind="messageInput" size="50" />
     </label>
 </div>
-<button @onclick="Send" disabled="@(!IsConnected)">Send</button>
+<button id="a3" @onclick="Send" disabled="@(!IsConnected)">Send</button>
 
 <hr>
 
