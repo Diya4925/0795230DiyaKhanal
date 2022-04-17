@@ -9,5 +9,10 @@ namespace DiyaKhanalChat.Server.Hubs
         {
             await Clients.All.SendAsync("ReceiveMessage", user, message);
         }
+
+        public async Task MessageTyping(string user, string message)
+        {
+            await Clients.Others.SendAsync("ReceiveMessage", user, message );
+        }
     }
 }

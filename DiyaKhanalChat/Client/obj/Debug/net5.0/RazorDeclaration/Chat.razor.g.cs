@@ -124,6 +124,12 @@ using Microsoft.AspNetCore.SignalR.Client;
     async Task Send() =>
         await hubConnection.SendAsync("SendMessage", userInput, messageInput);
 
+    
+
+async Task NewMessage()
+{
+    await hubConnection.SendAsync("MessageTyping", userInput, "is typing.....");
+}
     public bool IsConnected =>
         hubConnection.State == HubConnectionState.Connected;
 
@@ -134,6 +140,8 @@ using Microsoft.AspNetCore.SignalR.Client;
             await hubConnection.DisposeAsync();
         }
     }
+
+
 
 #line default
 #line hidden

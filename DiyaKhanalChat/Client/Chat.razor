@@ -12,7 +12,7 @@
 <div class="form-group">
     <label id="a2">
         Message:
-        <input @bind="messageInput" size="50" />
+        <input @onclick="NewMessage" @bind="messageInput" size="50" />
     </label>
 </div>
 <button id="a3" @onclick="Send" disabled="@(!IsConnected)">Send</button>
@@ -51,6 +51,12 @@
     async Task Send() =>
         await hubConnection.SendAsync("SendMessage", userInput, messageInput);
 
+    
+
+async Task NewMessage()
+{
+    await hubConnection.SendAsync("MessageTyping", userInput, "is typing.....");
+}
     public bool IsConnected =>
         hubConnection.State == HubConnectionState.Connected;
 
@@ -61,4 +67,6 @@
             await hubConnection.DisposeAsync();
         }
     }
+
+
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "HMywmaI1v62L37dnEKM43Q47N2/gpY2iWdo6K7Y+eNmhassIemN4clflTNc8lFPbsorgitkQe9hZqoG5G3BJGg==",
+  "dgSpecHash": "4JUu5CBFh3K1JPKc1ffnTtizy9S1+CcxxEgBUCXgPNnAcUefSnnXVUqU7SE+9P+H73urgJHBNtXc8X7/5B1u9g==",
   "success": true,
   "projectFilePath": "C:\\Users\\khana\\OneDrive\\Documents\\GitHub\\0795230DiyaKhanal\\DiyaKhanalChat\\Client\\DiyaKhanalChat.Client.csproj",
   "expectedPackageFiles": [
@@ -39,7 +39,7 @@
     "C:\\Users\\khana\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512",
     "C:\\Users\\khana\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
     "C:\\Users\\khana\\.nuget\\packages\\system.threading.channels\\5.0.0\\system.threading.channels.5.0.0.nupkg.sha512",
-    "C:\\Users\\khana\\.nuget\\packages\\microsoft.netcore.app.runtime.browser-wasm\\5.0.15\\microsoft.netcore.app.runtime.browser-wasm.5.0.15.nupkg.sha512"
+    "C:\\Users\\khana\\.nuget\\packages\\microsoft.netcore.app.runtime.browser-wasm\\5.0.16\\microsoft.netcore.app.runtime.browser-wasm.5.0.16.nupkg.sha512"
   ],
   "logs": []
 }
